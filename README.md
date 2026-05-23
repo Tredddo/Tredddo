@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-```bash
-$ echo $FLAG | xxd -p
-5361726361736d2061736964652c2049276d206c6f6f6b696e6720666f72
-2061206e6577206368616c6c656e67652e20436f6e74616374206d652066
-6f7220616e20696e746572766965772061743a20746f6d6d61736f2e6261
-626275696e6940676d61696c2e636f6d
-```
-
 <!--
 **Tredddo/Tredddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
